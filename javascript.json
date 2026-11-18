@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "plugins": [
+    {
+      "id": "metrofuse.deezer",
+      "name": "Deezer",
+      "author": "MetroFuse contributors",
+      "description": "Deezer browser sign-in, personalized Home, account library, search, lyrics and full account or dzmedia streaming.",
+      "version": "1.0.3",
+      "pluginApiVersion": "1.1.0",
+      "capabilities": [
+        "audio",
+        "catalog",
+        "home",
+        "login",
+        "lyrics",
+        "metadata",
+        "search",
+        "settings"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "sourceRepository": "https://github.com/956tris/Metrofuse-Deezer",
+      "releaseChannel": "stable",
+      "downloads": {
+        "android": {
+          "url": "https://github.com/956tris/Metrofuse-Deezer/releases/download/v1.0.3/deezer.apk",
+          "sha256": "8c96981179fc227561784addc94b225cc44b3c10f00477fed1cf1ece16fe8651",
+          "fileName": "deezer.apk"
+        },
+        "desktop": {
+          "url": "https://github.com/956tris/Metrofuse-Deezer/releases/download/v1.0.3/deezer.jar",
+          "sha256": "33f1389784cdb5a176afd08aabd0cf13ddd4325639258c38733cb984d129c0e4",
+          "fileName": "deezer.jar"
+        }
+      }
+    },
+    {
+      "id": "metrofuse.jiosaavn",
+      "name": "JioSaavn",
+      "author": "MetroFuse contributors; original Metrolist Project contributors",
+      "description": "Browse JioSaavn, discover trending music, and search for songs, albums, artists and playlists.",
+      "version": "1.3.0",
+      "pluginApiVersion": "1.1.0",
+      "capabilities": [
+        "audio",
+        "catalog",
+        "home",
+        "metadata",
+        "search",
+        "settings"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "sourceRepository": "https://github.com/956tris/MetroFuse-JioSaavn",
+      "releaseChannel": "stable",
+      "downloads": {
+        "universal": {
+          "url": "https://github.com/956tris/MetroFuse-JioSaavn/releases/download/v1.3.0/jiosaavn.mfp",
+          "sha256": "0cd93b925405c3098f45746ccba3418f72fb28c199a8e92806234a33ac72e85c",
+          "fileName": "jiosaavn.mfp"
+        }
+      }
+    },
+    {
+      "id": "dev.metrofuse.metroflow.native",
+      "name": "MetroFlow Native",
+      "author": "MetroFuse",
+      "description": "Adaptive dark music interface with green accents. Requires the MetroFuse UI SDK.",
+      "version": "1.0.2",
+      "pluginApiVersion": "1.1.0",
+      "capabilities": [
+        "ui"
+      ],
+      "categories": [
+        "Interface"
+      ],
+      "sourceRepository": "https://github.com/956tris/MetroFuse-MetroFlow",
+      "releaseChannel": "stable",
+      "downloads": {
+        "android": {
+          "url": "https://github.com/956tris/MetroFuse-MetroFlow/releases/download/v1.0.2/metroflow.apk",
+          "sha256": "ba78b0773895a53eee3496da6c82aaf504011420e686437c443c31c9b437434a",
+          "fileName": "metroflow.apk"
+        },
+        "desktop": {
+          "url": "https://github.com/956tris/MetroFuse-MetroFlow/releases/download/v1.0.2/metroflow.jar",
+          "sha256": "2e073223577ec37c3cfd5f1312feaaefedcf794a914608f66915d3b4d3e61744",
+          "fileName": "metroflow.jar"
+        }
+      }
+    },
+    {
+      "id": "dev.metrofuse.metroflow.javascript",
+      "name": "MetroFlow · JavaScript",
+      "author": "MetroFuse",
+      "description": "MetroFuse JavaScript interface.",
+      "version": "1.0.1",
+      "pluginApiVersion": "1.1.0",
+      "capabilities": [],
+      "categories": [
+        "Interface"
+      ],
+      "sourceRepository": "https://github.com/956tris/MetroFuse-MetroFlow",
+      "releaseChannel": "preview",
+      "downloads": {
+        "universal": {
+          "url": "https://github.com/956tris/MetroFuse-MetroFlow/releases/download/v1.0.1-rc.1/metroflow.mfp",
+          "sha256": "0756a13c7333edad94a7d750f59e8fb70af1a1af9f755e0aa1f083fdf73cc6db",
+          "fileName": "metroflow.mfp"
+        }
+      }
+    },
+    {
+      "id": "dev.metrofuse.roselight.native",
+      "name": "Roselight Music",
+      "author": "MetroFuse",
+      "description": "Apple Music-inspired native interface for MetroFuse, with glass controls on Android and web-style desktop navigation.",
+      "version": "1.0.1",
+      "pluginApiVersion": "1.1.0",
+      "capabilities": [
+        "ui"
+      ],
+      "categories": [
+        "Interface"
+      ],
+      "sourceRepository": "https://github.com/956tris/MetroFuse-Roselight",
+      "releaseChannel": "preview",
+      "downloads": {
+        "android": {
+          "url": "https://github.com/956tris/MetroFuse-Roselight/releases/download/v1.0.1-rc.1/roselight.apk",
+          "sha256": "3858607d26cc7ef20a26d58929a43d50a61a95c81850a7376276b784f89d1ef0",
+          "fileName": "roselight.apk"
+        },
+        "desktop": {
+          "url": "https://github.com/956tris/MetroFuse-Roselight/releases/download/v1.0.1-rc.1/roselight.jar",
+          "sha256": "9e277977b65fd2b84609c9f31a51bacd21a09069148192c1d18dcdb3975358f5",
+          "fileName": "roselight.jar"
+        }
+      }
+    },
+    {
+      "id": "metrofuse.spotify",
+      "name": "Spotify (JavaScript)",
+      "author": "MetroFuse and MetroList contributors",
+      "description": "Spotify account login, personalized Home, catalog, library, metadata, artist details, Canvas, lyrics and exact Web Player queue. Optional reporting records actual MetroFuse listening in Spotify. Audio is resolved by other providers.",
+      "version": "1.0.1",
+      "pluginApiVersion": "1.1.0",
+      "capabilities": [
+        "catalog",
+        "home",
+        "login",
+        "lyrics",
+        "metadata",
+        "network.websocket",
+        "search",
+        "settings"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "sourceRepository": "https://github.com/956tris/MetroFuse-Spotify",
+      "releaseChannel": "stable",
+      "downloads": {
+        "universal": {
+          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.1/spotify.mfp",
+          "sha256": "20a2cb71797a86469b949a97d9a4d831287ae9c35c58b5b4596053be0d562762",
+          "fileName": "spotify.mfp"
+        }
+      }
+    },
+    {
+      "id": "metrofuse.youtube-music",
+      "name": "YouTube Music (JavaScript)",
+      "author": "MetroFuse and MetroList contributors",
+      "description": "YouTube Music account sign-in, Home, catalog and direct audio. Use the native InnerTubeX JAR or APK for SABR and full player transforms.",
+      "version": "1.1.5",
+      "pluginApiVersion": "1.1.0",
+      "capabilities": [
+        "audio",
+        "catalog",
+        "home",
+        "login",
+        "metadata",
+        "search",
+        "settings"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "sourceRepository": "https://github.com/956tris/MetroFuse-YouTube-Music",
+      "releaseChannel": "stable",
+      "downloads": {
+        "universal": {
+          "url": "https://github.com/956tris/MetroFuse-YouTube-Music/releases/download/v1.1.5/youtube-music.mfp",
+          "sha256": "ba45de92cd520a51e73d4606e446fd40c00f42f022e625f9e2deae7475f9fa85",
+          "fileName": "youtube-music.mfp"
+        }
+      }
+    }
+  ]
+}
