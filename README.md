@@ -6,12 +6,9 @@ Public JSON registries for MetroFuse plugins maintained by [956tris](https://git
 
 Paste one of these URLs into **MetroFuse → Settings → Plugins → Marketplace**:
 
-- Complete marketplace, including preview releases:  
-  `https://raw.githubusercontent.com/956tris/MetroFuse-Marketplace/main/registry.json`
-- Stable releases only:  
-  `https://raw.githubusercontent.com/956tris/MetroFuse-Marketplace/main/stable.json`
-- JavaScript-preferred packages, with native-only plugins retained:  
-  `https://raw.githubusercontent.com/956tris/MetroFuse-Marketplace/main/javascript.json`
+- Complete marketplace, including preview releases: `https://raw.githubusercontent.com/956tris/MetroFuse-Marketplace/main/registry.json`
+- Stable releases only: `https://raw.githubusercontent.com/956tris/MetroFuse-Marketplace/main/stable.json`
+- JavaScript-preferred packages, with native-only plugins retained: `https://raw.githubusercontent.com/956tris/MetroFuse-Marketplace/main/javascript.json`
 
 `sources.json` is a machine-readable inventory of the public plugin repositories and every package used to generate the registries. It also records the separate plugin documentation repository.
 
