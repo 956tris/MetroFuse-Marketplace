@@ -6,7 +6,7 @@
       "name": "Deezer",
       "author": "MetroFuse contributors",
       "description": "Deezer browser sign-in, personalized Home, account library, search, lyrics and full account or dzmedia streaming.",
-      "version": "1.0.3",
+      "version": "1.0.5",
       "pluginApiVersion": "1.1.0",
       "capabilities": [
         "audio",
@@ -25,13 +25,13 @@
       "releaseChannel": "stable",
       "downloads": {
         "android": {
-          "url": "https://github.com/956tris/Metrofuse-Deezer/releases/download/v1.0.3/deezer.apk",
-          "sha256": "8c96981179fc227561784addc94b225cc44b3c10f00477fed1cf1ece16fe8651",
+          "url": "https://github.com/956tris/Metrofuse-Deezer/releases/download/v1.0.5/deezer.apk",
+          "sha256": "c4717ea9bf6f566add5a5751520032643b02bc23f6f0368d21ef6ca03e24eccd",
           "fileName": "deezer.apk"
         },
         "desktop": {
-          "url": "https://github.com/956tris/Metrofuse-Deezer/releases/download/v1.0.3/deezer.jar",
-          "sha256": "33f1389784cdb5a176afd08aabd0cf13ddd4325639258c38733cb984d129c0e4",
+          "url": "https://github.com/956tris/Metrofuse-Deezer/releases/download/v1.0.5/deezer.jar",
+          "sha256": "dbd3e48f1bf5033b93227583e9ea5f2d71cdd8f017dbc144baf2b87a980770b0",
           "fileName": "deezer.jar"
         }
       }
@@ -104,7 +104,7 @@
     },
     {
       "id": "dev.metrofuse.metroflow.javascript",
-      "name": "MetroFlow · JavaScript",
+      "name": "MetroFlow Â· JavaScript",
       "author": "MetroFuse",
       "description": "MetroFuse JavaScript interface.",
       "version": "1.0.1",
@@ -156,7 +156,7 @@
       "name": "Spotify",
       "author": "MetroFuse contributors",
       "description": "Spotify metadata, browser sign-in, personalized Home, account library, artist details, Canvas, lyrics and listening history. Audio comes from separately selected providers.",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "pluginApiVersion": "1.1.0",
       "capabilities": [
         "catalog",
@@ -175,18 +175,18 @@
       "releaseChannel": "stable",
       "downloads": {
         "android": {
-          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.1/spotify.apk",
-          "sha256": "1d9c13a2a491824e07893afb1419861b97048a2fbf82472fdc688e2ca23e2154",
+          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.3/spotify.apk",
+          "sha256": "706568f47a6db9f43015545965352c1ffc6925e8fafa37ca1d73cc7e61449b37",
           "fileName": "spotify.apk"
         },
         "desktop": {
-          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.1/spotify.jar",
-          "sha256": "10613eab3557d30a2a90122a1d3fb696a7de5f9699cc2e0bc64e04ed2d8c911f",
+          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.3/spotify.jar",
+          "sha256": "ac190b7cc9f7d7b89b0c7577434ed6cc8ccd0d2f288536470b36d6bc9b2f9d18",
           "fileName": "spotify.jar"
         },
         "universal": {
-          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.1/spotify.mfp",
-          "sha256": "20a2cb71797a86469b949a97d9a4d831287ae9c35c58b5b4596053be0d562762",
+          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.3/spotify.mfp",
+          "sha256": "0a50b2aa1aba81872cc5a1b17481375e3880614bb6921b6bd0b63eba9dd5f2cb",
           "fileName": "spotify.mfp"
         }
       }
