@@ -112,7 +112,7 @@ def write_json(name, value):
 
 def refresh():
     repos = api_pages(f"/users/{OWNER}/repos?type=owner")
-    repos = sorted((r for r in repos if not r["private"] and r["name"].lower().startswith("metrofuse-")), key=lambda r: r["name"].lower())
+    repos = sorted((r for r in repos if not r["private"] and r["name"].lower().startswith("metrofuse-") and r["name"].lower() not in {"metrofuse-marketplace", "metrofuse-web"}), key=lambda r: r["name"].lower())
     inventory, records = [], []
     for repo in repos:
         documentation = repo["name"].lower() == "metrofuse-plugin-docs"

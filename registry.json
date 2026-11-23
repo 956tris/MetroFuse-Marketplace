@@ -79,7 +79,7 @@
       "name": "MetroFlow Native",
       "author": "MetroFuse",
       "description": "Adaptive dark music interface with green accents. Requires the MetroFuse UI SDK.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "pluginApiVersion": "1.1.0",
       "capabilities": [
         "ui"
@@ -91,13 +91,13 @@
       "releaseChannel": "stable",
       "downloads": {
         "android": {
-          "url": "https://github.com/956tris/MetroFuse-MetroFlow/releases/download/v1.0.2/metroflow.apk",
-          "sha256": "ba78b0773895a53eee3496da6c82aaf504011420e686437c443c31c9b437434a",
+          "url": "https://github.com/956tris/MetroFuse-MetroFlow/releases/download/v1.0.3/metroflow.apk",
+          "sha256": "473a86a2fcaabea239c3c625fb2a2cbcba98e63f4bceb6d2b59fea9d2608c0ab",
           "fileName": "metroflow.apk"
         },
         "desktop": {
-          "url": "https://github.com/956tris/MetroFuse-MetroFlow/releases/download/v1.0.2/metroflow.jar",
-          "sha256": "2e073223577ec37c3cfd5f1312feaaefedcf794a914608f66915d3b4d3e61744",
+          "url": "https://github.com/956tris/MetroFuse-MetroFlow/releases/download/v1.0.3/metroflow.jar",
+          "sha256": "12ea0449ab9d9e98a2ce25f954aafa25f391b4c4317e2654c1e112ada5e2db5d",
           "fileName": "metroflow.jar"
         }
       }
@@ -107,18 +107,18 @@
       "name": "MetroFlow · JavaScript",
       "author": "MetroFuse",
       "description": "MetroFuse JavaScript interface.",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "pluginApiVersion": "1.1.0",
       "capabilities": [],
       "categories": [
         "Interface"
       ],
       "sourceRepository": "https://github.com/956tris/MetroFuse-MetroFlow",
-      "releaseChannel": "preview",
+      "releaseChannel": "stable",
       "downloads": {
         "universal": {
-          "url": "https://github.com/956tris/MetroFuse-MetroFlow/releases/download/v1.0.1-rc.1/metroflow.mfp",
-          "sha256": "0756a13c7333edad94a7d750f59e8fb70af1a1af9f755e0aa1f083fdf73cc6db",
+          "url": "https://github.com/956tris/MetroFuse-MetroFlow/releases/download/v1.0.3/metroflow.mfp",
+          "sha256": "e0bf77870c6447ff781ccbf2b3330f09e8ffc91cf6aba47b5b9c071e4760f454",
           "fileName": "metroflow.mfp"
         }
       }
@@ -127,8 +127,8 @@
       "id": "dev.metrofuse.roselight.native",
       "name": "Roselight Music",
       "author": "MetroFuse",
-      "description": "Apple Music-inspired native interface for MetroFuse, with glass controls on Android and web-style desktop navigation.",
-      "version": "1.0.1",
+      "description": "Apple Music-style interface for MetroFuse with editorial browsing, a five-tab Android layout, and a full-screen player.",
+      "version": "1.0.10",
       "pluginApiVersion": "1.1.0",
       "capabilities": [
         "ui"
@@ -137,17 +137,17 @@
         "Interface"
       ],
       "sourceRepository": "https://github.com/956tris/MetroFuse-Roselight",
-      "releaseChannel": "preview",
+      "releaseChannel": "stable",
       "downloads": {
         "android": {
-          "url": "https://github.com/956tris/MetroFuse-Roselight/releases/download/v1.0.1-rc.1/roselight.apk",
-          "sha256": "3858607d26cc7ef20a26d58929a43d50a61a95c81850a7376276b784f89d1ef0",
-          "fileName": "roselight.apk"
+          "url": "https://github.com/956tris/MetroFuse-Roselight/releases/download/v1.0.10/roselight-1.0.10.apk",
+          "sha256": "4c2afa4419fe004bc554e487f035d74e81a2b18a42518c5603dea4793c9cc11f",
+          "fileName": "roselight-1.0.10.apk"
         },
         "desktop": {
-          "url": "https://github.com/956tris/MetroFuse-Roselight/releases/download/v1.0.1-rc.1/roselight.jar",
-          "sha256": "9e277977b65fd2b84609c9f31a51bacd21a09069148192c1d18dcdb3975358f5",
-          "fileName": "roselight.jar"
+          "url": "https://github.com/956tris/MetroFuse-Roselight/releases/download/v1.0.10/roselight-1.0.10.jar",
+          "sha256": "123f0727339ee7700cb8bccafc5d5400bbf442708cb2c21f9b0efb7a75395e65",
+          "fileName": "roselight-1.0.10.jar"
         }
       }
     },
@@ -156,7 +156,7 @@
       "name": "Spotify",
       "author": "MetroFuse contributors",
       "description": "Spotify metadata, browser sign-in, personalized Home, account library, artist details, Canvas, lyrics and listening history. Audio comes from separately selected providers.",
-      "version": "1.0.3",
+      "version": "1.0.7",
       "pluginApiVersion": "1.1.0",
       "capabilities": [
         "catalog",
@@ -175,18 +175,18 @@
       "releaseChannel": "stable",
       "downloads": {
         "android": {
-          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.3/spotify.apk",
-          "sha256": "706568f47a6db9f43015545965352c1ffc6925e8fafa37ca1d73cc7e61449b37",
+          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.7/spotify.apk",
+          "sha256": "e97b2c1fac00b206a468c6999fd72bb9d9da0851b7d4505463ab2915b97eb731",
           "fileName": "spotify.apk"
         },
         "desktop": {
-          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.3/spotify.jar",
-          "sha256": "ac190b7cc9f7d7b89b0c7577434ed6cc8ccd0d2f288536470b36d6bc9b2f9d18",
+          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.7/spotify.jar",
+          "sha256": "d026e6ab56e6bd24be54962ab8ce9f0da0b89cf3df556f43957a0e412a08005d",
           "fileName": "spotify.jar"
         },
         "universal": {
-          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.3/spotify.mfp",
-          "sha256": "0a50b2aa1aba81872cc5a1b17481375e3880614bb6921b6bd0b63eba9dd5f2cb",
+          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.7/spotify.mfp",
+          "sha256": "999734bfbcd6aabcbede3efeee5a724168c1a1634444fc474fae603d843cd6da",
           "fileName": "spotify.mfp"
         }
       }
