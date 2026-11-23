@@ -18,7 +18,9 @@ Paste one of these URLs into **MetroFuse → Settings → Plugins → Marketplac
 - [MetroFuse-JioSaavn](https://github.com/956tris/MetroFuse-JioSaavn)
 - [MetroFuse-MetroFlow](https://github.com/956tris/MetroFuse-MetroFlow)
 - [MetroFuse-Roselight](https://github.com/956tris/MetroFuse-Roselight)
+- [MetroFuse-SoundCloud](https://github.com/956tris/MetroFuse-SoundCloud)
 - [MetroFuse-Spotify](https://github.com/956tris/MetroFuse-Spotify)
+- [MetroFuse-TIDAL](https://github.com/956tris/MetroFuse-TIDAL)
 - [MetroFuse-YouTube-Music](https://github.com/956tris/MetroFuse-YouTube-Music)
 - [MetroFuse Plugin Docs](https://github.com/956tris/MetroFuse-Plugin-Docs)
 

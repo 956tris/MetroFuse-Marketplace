@@ -152,11 +152,40 @@
       }
     },
     {
+      "id": "metrofuse.soundcloud",
+      "name": "SoundCloud",
+      "author": "MetroFuse",
+      "description": "SoundCloud web catalog, Home, account library and audio from its original transcodings.",
+      "version": "1.0.1",
+      "pluginApiVersion": "1.2.0",
+      "capabilities": [
+        "audio",
+        "catalog",
+        "home",
+        "library",
+        "login",
+        "search",
+        "settings"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "sourceRepository": "https://github.com/956tris/MetroFuse-SoundCloud",
+      "releaseChannel": "stable",
+      "downloads": {
+        "universal": {
+          "url": "https://github.com/956tris/MetroFuse-SoundCloud/releases/download/v1.0.1/soundcloud.mfp",
+          "sha256": "0428e37a775faaee86e43138822b915bcaecaed786b4e7a2b944c4dab834d22a",
+          "fileName": "soundcloud.mfp"
+        }
+      }
+    },
+    {
       "id": "metrofuse.spotify",
       "name": "Spotify",
       "author": "MetroFuse contributors",
       "description": "Spotify metadata, browser sign-in, personalized Home, account library, artist details, Canvas, lyrics and listening history. Audio comes from separately selected providers.",
-      "version": "1.0.7",
+      "version": "1.0.10",
       "pluginApiVersion": "1.1.0",
       "capabilities": [
         "catalog",
@@ -175,19 +204,48 @@
       "releaseChannel": "stable",
       "downloads": {
         "android": {
-          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.7/spotify.apk",
-          "sha256": "e97b2c1fac00b206a468c6999fd72bb9d9da0851b7d4505463ab2915b97eb731",
+          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.10/spotify.apk",
+          "sha256": "11b91406fd449d6a94bafd8a03c44f41079dbfaffbf574de615219b4cae19a28",
           "fileName": "spotify.apk"
         },
         "desktop": {
-          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.7/spotify.jar",
-          "sha256": "d026e6ab56e6bd24be54962ab8ce9f0da0b89cf3df556f43957a0e412a08005d",
+          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.10/spotify.jar",
+          "sha256": "918769736840ed8783f8afbe7e5b04b0e027af80c05ec542b19439765d2b9433",
           "fileName": "spotify.jar"
         },
         "universal": {
-          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.7/spotify.mfp",
-          "sha256": "999734bfbcd6aabcbede3efeee5a724168c1a1634444fc474fae603d843cd6da",
+          "url": "https://github.com/956tris/MetroFuse-Spotify/releases/download/v1.0.10/spotify.mfp",
+          "sha256": "48c219e00c6d3e2bebf07095ac0dfc2fb0dff43911465a860355965f44e7af28",
           "fileName": "spotify.mfp"
+        }
+      }
+    },
+    {
+      "id": "metrofuse.tidal",
+      "name": "TIDAL",
+      "author": "MetroFuse",
+      "description": "TIDAL catalog, Home, account library and audio through a configured legacy resolver.",
+      "version": "1.0.1",
+      "pluginApiVersion": "1.2.0",
+      "capabilities": [
+        "audio",
+        "catalog",
+        "home",
+        "library",
+        "login",
+        "search",
+        "settings"
+      ],
+      "categories": [
+        "Music"
+      ],
+      "sourceRepository": "https://github.com/956tris/MetroFuse-TIDAL",
+      "releaseChannel": "stable",
+      "downloads": {
+        "universal": {
+          "url": "https://github.com/956tris/MetroFuse-TIDAL/releases/download/v1.0.1/tidal.mfp",
+          "sha256": "b2077ea3d72f8f37415bb79da55726ea823a4fd65ddd9d1f8c5c8fa5683342ce",
+          "fileName": "tidal.mfp"
         }
       }
     },
@@ -196,7 +254,7 @@
       "name": "YouTube Music",
       "author": "MetroFuse and MetroList contributors",
       "description": "YouTube Music catalog, recommendations, account sign-in, paginated Home and Library, and audio through InnerTubeX.",
-      "version": "1.1.5",
+      "version": "1.1.6",
       "pluginApiVersion": "1.1.0",
       "capabilities": [
         "audio",
@@ -214,18 +272,18 @@
       "releaseChannel": "stable",
       "downloads": {
         "android": {
-          "url": "https://github.com/956tris/MetroFuse-YouTube-Music/releases/download/v1.1.5/youtube-music.apk",
-          "sha256": "e640af7f1399caf6b5100e90ce87055a6970202cb50bcbd4659d1c8754e2540e",
+          "url": "https://github.com/956tris/MetroFuse-YouTube-Music/releases/download/v1.1.6/youtube-music.apk",
+          "sha256": "e66b8200acd81690398006f4e820143232ca9902210f0d901a41f8a6b0539313",
           "fileName": "youtube-music.apk"
         },
         "desktop": {
-          "url": "https://github.com/956tris/MetroFuse-YouTube-Music/releases/download/v1.1.5/youtube-music.jar",
-          "sha256": "1ba6d724830a809251515c5d5d838b18302710cd507b83a871af34dba783ddd7",
+          "url": "https://github.com/956tris/MetroFuse-YouTube-Music/releases/download/v1.1.6/youtube-music.jar",
+          "sha256": "92c68aa8f237dd401966320dc954d3150f5e505818e7064c3d994ebb8090c8fa",
           "fileName": "youtube-music.jar"
         },
         "universal": {
-          "url": "https://github.com/956tris/MetroFuse-YouTube-Music/releases/download/v1.1.5/youtube-music.mfp",
-          "sha256": "ba45de92cd520a51e73d4606e446fd40c00f42f022e625f9e2deae7475f9fa85",
+          "url": "https://github.com/956tris/MetroFuse-YouTube-Music/releases/download/v1.1.6/youtube-music.mfp",
+          "sha256": "d5d5e045ef7268c5b217b12f86bcfe5ef4947cb89c3f6c58aca1ee568581352f",
           "fileName": "youtube-music.mfp"
         }
       }
