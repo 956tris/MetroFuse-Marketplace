@@ -158,13 +158,13 @@
       "artifacts": [
         {
           "pluginId": "metrofuse.soundcloud",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "runtime": "javascript",
           "platform": "universal",
-          "releaseTag": "v1.0.1",
+          "releaseTag": "v1.0.2",
           "releaseChannel": "stable",
-          "url": "https://github.com/956tris/MetroFuse-SoundCloud/releases/download/v1.0.1/soundcloud.mfp",
-          "sha256": "0428e37a775faaee86e43138822b915bcaecaed786b4e7a2b944c4dab834d22a",
+          "url": "https://github.com/956tris/MetroFuse-SoundCloud/releases/download/v1.0.2/soundcloud.mfp",
+          "sha256": "7b679af8971d9d46ca2075cf40f788a22abc00a026e1a13f598389c67f75632c",
           "fileName": "soundcloud.mfp"
         }
       ]
@@ -218,13 +218,13 @@
       "artifacts": [
         {
           "pluginId": "metrofuse.tidal",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "runtime": "javascript",
           "platform": "universal",
-          "releaseTag": "v1.0.1",
+          "releaseTag": "v1.0.2",
           "releaseChannel": "stable",
-          "url": "https://github.com/956tris/MetroFuse-TIDAL/releases/download/v1.0.1/tidal.mfp",
-          "sha256": "b2077ea3d72f8f37415bb79da55726ea823a4fd65ddd9d1f8c5c8fa5683342ce",
+          "url": "https://github.com/956tris/MetroFuse-TIDAL/releases/download/v1.0.2/tidal.mfp",
+          "sha256": "ca5eb3ed24038ce7e5ed518ebd954a8eca86000f10e85cdd236158e972115026",
           "fileName": "tidal.mfp"
         }
       ]
