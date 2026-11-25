@@ -201,35 +201,6 @@
       }
     },
     {
-      "id": "metrofuse.tidal",
-      "name": "TIDAL",
-      "author": "MetroFuse",
-      "description": "TIDAL catalog, Home, account library and audio through a configured legacy resolver.",
-      "version": "1.0.2",
-      "pluginApiVersion": "1.2.0",
-      "capabilities": [
-        "audio",
-        "catalog",
-        "home",
-        "library",
-        "login",
-        "search",
-        "settings"
-      ],
-      "categories": [
-        "Music"
-      ],
-      "sourceRepository": "https://github.com/956tris/MetroFuse-TIDAL",
-      "releaseChannel": "stable",
-      "downloads": {
-        "universal": {
-          "url": "https://github.com/956tris/MetroFuse-TIDAL/releases/download/v1.0.2/tidal.mfp",
-          "sha256": "ca5eb3ed24038ce7e5ed518ebd954a8eca86000f10e85cdd236158e972115026",
-          "fileName": "tidal.mfp"
-        }
-      }
-    },
-    {
       "id": "metrofuse.youtube-music",
       "name": "YouTube Music (JavaScript)",
       "author": "MetroFuse and MetroList contributors",

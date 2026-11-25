@@ -211,25 +211,6 @@
       ]
     },
     {
-      "repository": "https://github.com/956tris/MetroFuse-TIDAL",
-      "name": "MetroFuse-TIDAL",
-      "description": "TIDAL provider plugin for MetroFuse 10.0.0 (Plugin API 1.2.0).",
-      "kind": "plugin",
-      "artifacts": [
-        {
-          "pluginId": "metrofuse.tidal",
-          "version": "1.0.2",
-          "runtime": "javascript",
-          "platform": "universal",
-          "releaseTag": "v1.0.2",
-          "releaseChannel": "stable",
-          "url": "https://github.com/956tris/MetroFuse-TIDAL/releases/download/v1.0.2/tidal.mfp",
-          "sha256": "ca5eb3ed24038ce7e5ed518ebd954a8eca86000f10e85cdd236158e972115026",
-          "fileName": "tidal.mfp"
-        }
-      ]
-    },
-    {
       "repository": "https://github.com/956tris/MetroFuse-YouTube-Music",
       "name": "MetroFuse-YouTube-Music",
       "description": "YouTube Music plugin for MetroFuse, with InnerTubeX JAR/APK and universal MFP source. Sign-in, Home and audio.",
